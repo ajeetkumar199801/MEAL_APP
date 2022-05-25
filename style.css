@@ -1,12 +1,15 @@
 body {
-  /* background-color: midnightblue;*/
-  /* background-color: #f48982;*/
-  /* background-image: linear-gradient(to right bottom, #fbdb89, #f48982);*/
-
-  background-image: linear-gradient(to right bottom, #fbdb89, #f48982);
-  background-size: cover;
   
+  
+    background-image: linear-gradient(to right bottom, #fbdb89, #f48982);
+  background-size: cover;
+  /* background-repeat: no-repeat;*/
   min-height: calc(100vh - 8vw);
+  margin-top: 0;
+  
+  
+  
+  
 }
 .main_body {
   height: auto;
